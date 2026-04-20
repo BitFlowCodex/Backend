@@ -1,7 +1,7 @@
 # Github User Activity CLI
 
 ## Usage
-``bash github-activity <username>``
+``go main.go <username>``
 
 ## Inspiration
 https://roadmap.sh/projects/github-user-activity
